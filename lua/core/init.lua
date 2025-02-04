@@ -14,6 +14,7 @@ opt.showmode = false
 
 opt.clipboard = "unnamedplus"
 opt.cursorline = true
+opt.guicursor = "n-v-i-c:block"
 
 -- Indenting
 opt.expandtab = true
